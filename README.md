@@ -3,6 +3,8 @@
 This list is an attempt to organize and collect public configs of people's custom OStree native containers.
 This will help others build their own and allow for us to learn from each other.  
 
+- [Fedora CoreOS Examples Repository] - a collection of examples to start with and derive from, start here!
+
 ## Configs
 
 (In alphabetical order)
@@ -15,8 +17,8 @@ This will help others build their own and allow for us to learn from each other.
 
 ## Documentation and Specifications
 
-- [OStree Native Containers](https://fedoraproject.org/wiki/Changes/OstreeNativeContainer)
-- [Ostree Native Container (Phase 2, stable)](https://fedoraproject.org/wiki/Changes/OstreeNativeContainerStable)
+- Spec: [OStree Native Containers](https://fedoraproject.org/wiki/Changes/OstreeNativeContainer): Important!
+- Spec: [Ostree Native Container (Phase 2, stable)](https://fedoraproject.org/wiki/Changes/OstreeNativeContainerStable): Important!
 
 ## Discussions
 
