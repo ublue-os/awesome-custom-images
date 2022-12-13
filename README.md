@@ -10,8 +10,8 @@ This will help others build their own and allow for us to learn from each other.
 - [Alessandro Di Stefano (aleskandro)](https://github.com/aleskandro/my-ostree-config) - OSTree-native container configs for a custom Fedora Kinoite for personal use 
 - [Jorge Castro](https://github.com/ublue-os) - Community built OS images based on Fedora Silverblue
   - [base](https://github.com/ublue-os/base) - A base image you can start from
-  - [ubuntu](https://github.com/ublue-os/ubuntu) - And a seperate image of Fedora Silverblue for Ubuntu Expatriates 
-- [Yosuke Matsumura (GuiltyDoggy](https://github.com/GuiltyDoggy/ostree-container) - Proof of concept for custom image for rpm-ostree container-native deployment
+  - [ubuntu](https://github.com/ublue-os/ubuntu) - Fedora Silverblue for Ubuntu Expatriates 
+- [Yosuke Matsumura (GuiltyDoggy)](https://github.com/GuiltyDoggy/ostree-container) - Proof of concept for custom image for rpm-ostree container-native deployment
 
 ## Documentation and Specifications
 
