@@ -3,7 +3,7 @@
 This list is an attempt to organize and collect public configs of people's custom OStree native containers.
 This will help others build their own and allow for us to learn from each other.  
 
-- [Fedora CoreOS Examples Repository] - a collection of examples to start with and derive from, start here!
+- [Fedora CoreOS Examples Repository](https://github.com/miabbott/coreos-layering-examples) - a collection of examples to start with and derive from, start here!
 
 ## Configs
 
