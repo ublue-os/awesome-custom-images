@@ -10,6 +10,7 @@ This will help others build their own and allow for us to learn from each other.
 (In alphabetical order)
 
 - [Alessandro Di Stefano (aleskandro)](https://github.com/aleskandro/my-ostree-config) - OSTree-native container configs for a custom Fedora Kinoite for personal use 
+- [Dallas Strouse (Oro)](https://github.com/orowith2os/uBlue-Budgie) - A WIP rpm-ostree image based on uBlue, for Budgie
 - [Jorge Castro](https://github.com/ublue-os) - Community built OS images based on Fedora Silverblue
   - [base](https://github.com/ublue-os/base) - A base image you can start from
   - [ubuntu](https://github.com/ublue-os/ubuntu) - Fedora Silverblue for Ubuntu Expatriates 
