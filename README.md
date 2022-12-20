@@ -1,7 +1,7 @@
 # awesome-custom-images
 
 This list is an attempt to organize and collect public configs of people's custom OStree native containers.
-This will help others build their own and allow for us to learn from each other.  
+This will help others build their own and allow for us to learn from each other.
 
 - [Fedora CoreOS Examples Repository](https://github.com/miabbott/coreos-layering-examples) - a collection of examples to start with and derive from, start here!
 
@@ -9,12 +9,14 @@ This will help others build their own and allow for us to learn from each other.
 
 (In alphabetical order)
 
-- [Alessandro Di Stefano (aleskandro)](https://github.com/aleskandro/my-ostree-config) - OSTree-native container configs for a custom Fedora Kinoite for personal use 
+- [Alessandro Di Stefano (aleskandro)](https://github.com/aleskandro/my-ostree-config) - OSTree-native container configs for a custom Fedora Kinoite for personal use
 - [Dallas Strouse (Oro)](https://github.com/orowith2os/uBlue-Budgie) - A WIP rpm-ostree image based on uBlue, for Budgie
 - [Jorge Castro](https://github.com/ublue-os) - Community built OS images based on Fedora Silverblue
   - [base](https://github.com/ublue-os/base) - A base image you can start from
   - [ubuntu](https://github.com/ublue-os/ubuntu) - Fedora Silverblue for Ubuntu Expatriates
-- [Martin Pitt](https://github.com/martinpitt/pitti-workstation-oci) - Martin Pitt's desktop OSTree as OCI container
+- [Martin Pitt](https://github.com/martinpitt)'s [SwayWM](https://swaywm.org/) desktop OSTree
+     - [minimal ostree build from scratch](https://github.com/martinpitt/ostree-pitti-workstation) (production)
+     - [experimental CoreOS fork](https://github.com/martinpitt/pitti-workstation-oci) (much simpler, still some bugs)
 - [Yosuke Matsumura (GuiltyDoggy)](https://github.com/GuiltyDoggy/ostree-container) - Proof of concept for custom image for rpm-ostree container-native deployment
 
 ## Documentation and Specifications
