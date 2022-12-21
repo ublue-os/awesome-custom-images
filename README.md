@@ -5,6 +5,9 @@ This will help others build their own and allow for us to learn from each other.
 
 - [Fedora CoreOS Examples Repository](https://github.com/miabbott/coreos-layering-examples) - a collection of examples to start with and derive from, start here!
 
+> **Warning**
+> This is still a relatively new feature, take precautions when testing on an installation you care about. :smile: 
+
 ## Configs
 
 (In alphabetical order)
