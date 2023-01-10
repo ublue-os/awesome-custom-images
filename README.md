@@ -6,7 +6,7 @@ This will help others build their own and allow for us to learn from each other.
 - [Fedora CoreOS Examples Repository](https://github.com/miabbott/coreos-layering-examples) - a collection of examples to start with and derive from, start here!
 
 > **Warning**
-> This is still a relatively new feature, take precautions when testing on an installation you care about. :smile: 
+> This is still a relatively new feature, take precautions when testing on an installation you care about. :smile:
 
 ## Configs
 
@@ -18,11 +18,12 @@ This will help others build their own and allow for us to learn from each other.
   - [base](https://github.com/ublue-os/base) - A base image you can start from
   - [ubuntu](https://github.com/ublue-os/ubuntu) - Fedora Silverblue for Ubuntu Expatriates
 - [Kyle Gospo](https://github.com/KyleGospo)
-  - [bazzite](https://github.com/KyleGospo/bazzite) - "Bazzite" may one day be an alternative OS for the Steam Deck based on Fedora Kinoite 
+  - [bazzite](https://github.com/KyleGospo/bazzite) - "Bazzite" may one day be an alternative OS for the Steam Deck based on Fedora Kinoite
   - [serverblue](https://github.com/KyleGospo/serverblue) - Fedora CoreOS with cockpit, podman-docker, automatic updates via rpm-ostreed, and services for duperemove/distrobox-upgrade/flatpak updates.
 - [Martin Pitt](https://github.com/martinpitt)'s [SwayWM](https://swaywm.org/) desktop OSTree
      - [minimal ostree build from scratch](https://github.com/martinpitt/ostree-pitti-workstation) (production)
      - [experimental CoreOS fork](https://github.com/martinpitt/pitti-workstation-oci) (much simpler, still some bugs)
+- [Pavel Sobolev (paveloom)](https://github.com/paveloom-d/paveloom-os) - An OSTree native container for personal use
 - [Yosuke Matsumura (GuiltyDoggy)](https://github.com/GuiltyDoggy/ostree-container) - Proof of concept for custom image for rpm-ostree container-native deployment
 
 ## Documentation and Specifications
