@@ -17,8 +17,8 @@ This will help others build their own and allow for us to learn from each other.
 - [Jorge Castro](https://github.com/ublue-os) - Community built OS images based on Fedora Silverblue
   - [base](https://github.com/ublue-os/base) - A base image you can start from
   - [ubuntu](https://github.com/ublue-os/ubuntu) - Fedora Silverblue for Ubuntu Expatriates
-- [Kyle Gospo](https://github.com/KyleGospo)
-  - [bazzite](https://github.com/KyleGospo/bazzite) - "Bazzite" may one day be an alternative OS for the Steam Deck based on Fedora Kinoite
+- [Kyle Gospodnetich](https://github.com/KyleGospo)
+  - [bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI based off of [kinoite-nvidia](https://github.com/ublue-os/nvidia) that is intended to be an alternative OS for the Steam Deck and a SteamOS-alike for desktops.
   - [serverblue](https://github.com/KyleGospo/serverblue) - Fedora CoreOS with cockpit, podman-docker, automatic updates via rpm-ostreed, and services for duperemove/distrobox-upgrade/flatpak updates.
 - [Martin Pitt](https://github.com/martinpitt)'s [SwayWM](https://swaywm.org/) desktop OSTree
      - [minimal ostree build from scratch](https://github.com/martinpitt/ostree-pitti-workstation) (production)
