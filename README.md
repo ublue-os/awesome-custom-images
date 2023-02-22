@@ -16,6 +16,9 @@ This will help others build their own and allow for us to learn from each other.
      - [bluevanilla](https://github.com/aguslr/bluevanilla) - A custom Silverblue image that uses vanilla GNOME and FlatHub apps
      - [bluefusion](https://github.com/aguslr/bluefusion) - A custom image that adds RPM Fusion with media codecs and replaces Toolbox with Distrobox
 - [Alessandro Di Stefano (aleskandro)](https://github.com/aleskandro/my-ostree-config) - OSTree-native container configs for a custom Fedora Kinoite for personal use
+- [Benjamin Sherman](https://github.com/bsherman)
+  - [ublue-kmods](https://github.com/bsherman/ublue-kmods) - "Nearly vanilla" variant images with xbox controller akmods added; based on [ublue-os/nvidia](https://github.com/ublue-os/nvidia).
+  - [ublue-custom](https://github.com/bsherman/ublue-custom) - Personalized variant images inspired by [ublue-os/base](https://github.com/ublue-os/base) but with system Flathub, per-variant packages, and script for TPM2 LUKS auto-unlock; based on *ublue-kmods*.
 - [Dallas Strouse (Oro)](https://github.com/orowith2os/uBlue-Budgie) - A WIP rpm-ostree image based on uBlue, for Budgie
 - [Jorge Castro](https://github.com/ublue-os) - Community built OS images based on Fedora Silverblue
   - [base](https://github.com/ublue-os/base) - A base image you can start from
