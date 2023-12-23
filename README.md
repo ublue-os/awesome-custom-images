@@ -31,6 +31,9 @@ This will help others build their own and allow for us to learn from each other.
      - [minimal ostree build from scratch](https://github.com/martinpitt/ostree-pitti-workstation) (production)
      - [experimental CoreOS fork](https://github.com/martinpitt/pitti-workstation-oci) (much simpler, still some bugs)
 - [Pavel Sobolev (paveloom)](https://github.com/paveloom-d/paveloom-os) - An OSTree native container for personal use
+- [Secureblue](https://github.com/secureblue/secureblue) - A security optimized Distribution, limiting attack surface, and protecting from known and unknown risks, while staying user-friendly.
+     - Desktops (Silverblue, Kinoite, Sericea, Bluefin, Lazurite) with user namespaces disabled, using bubblewrap-suid; or with user namespaces and bubblewrap
+     - Server image with or without user namespaces
 - [sihawken](https://github.com/sihawken/kinoite-msi-stealth-15m) - This is a build of kinoite specifically designed to support the MSI Stealth 15m
 - [Yosuke Matsumura (GuiltyDoggy)](https://github.com/GuiltyDoggy/ostree-container) - Proof of concept for custom image for rpm-ostree container-native deployment
 
