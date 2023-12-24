@@ -24,6 +24,8 @@ This will help others build their own and allow for us to learn from each other.
 - [Jorge Castro](https://github.com/ublue-os) - Community built OS images based on Fedora Silverblue
   - [base](https://github.com/ublue-os/base) - A base image you can start from
   - [ubuntu](https://github.com/ublue-os/ubuntu) - Fedora Silverblue for Ubuntu Expatriates
+- [Joshua AE Lee](https://github.com/10leej)
+  - [htpc](https://github.com/10leej/htpc) - built on the ublue main image this is just minimum viable Kodi for a lovely Home Theatre PC 
 - [Kyle Gospodnetich](https://github.com/KyleGospo)
   - [bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI based off of [kinoite-nvidia](https://github.com/ublue-os/nvidia) that is intended to be an alternative OS for the Steam Deck and a SteamOS-alike for desktops.
   - [serverblue](https://github.com/KyleGospo/serverblue) - Fedora CoreOS with cockpit, podman-docker, automatic updates via rpm-ostreed, and services for duperemove/distrobox-upgrade/flatpak updates.
